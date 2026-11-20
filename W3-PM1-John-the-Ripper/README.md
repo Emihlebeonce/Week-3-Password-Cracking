@@ -11,4 +11,4 @@ This project focuses on recovering a password-protected PDF using John the Rippe
 Successfully recovered the PDF password and verified it by opening the PDF.
 
 ## Evidence
-Screenshots are provided as evidence of the practical work.
+The Screenshot is provided as evidence of the practical work results after unlocking the file

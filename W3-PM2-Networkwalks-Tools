@@ -1,0 +1,20 @@
+# Project Module 2 – Networkwalks Tools
+
+## Overview
+This project focuses on PDF password recovery using Networkwalks tools.
+
+## Tools Used
+- Networkwalks Hash Calculator
+- Networkwalks Password Cracker
+- Kali Linux
+
+## Tasks Completed
+- Uploaded the assigned password-protected PDF.
+- Extracted the PDF hash.
+- Submitted the hash to the Password Cracker.
+- Used an additional wordlist.
+- Recovered the password.
+- Verified the password by opening the PDF.
+
+## Evidence
+The Screenshot is included to demonstrate the practical task results.
